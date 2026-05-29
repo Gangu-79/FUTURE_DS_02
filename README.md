@@ -57,3 +57,5 @@ Repository Contents
 - Dataset
 - Dashboard Screenshots
 - Project Documentation
+  <img width="1919" height="941" alt="Screenshot 2026-05-29 113054" src="https://github.com/user-attachments/assets/cf0095ee-589a-4d07-93f2-51039e78508b" />
+
